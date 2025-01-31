@@ -3,4 +3,5 @@
 https://rishu7426.github.io/StopWatch/
 
 
-https://github.com/user-attachments/assets/2a6f362a-2d54-467f-b6e2-38022b3002f2
+
+![image](https://github.com/user-attachments/assets/74d4a7f4-7b25-4eb9-b492-4ee84948b9aa)
